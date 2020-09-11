@@ -1,0 +1,53 @@
+.title-text {
+  text-align: center;
+}
+
+.black {
+  background-color: black;
+  margin-left: 43.1%;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.color {
+  border: 1px solid black;
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+}
+
+.board-input {
+  width: 36.16px;
+}
+
+.generate-button {
+  width: 44.16px;
+}
+
+.pixel-line {
+  background-color: white;
+}
+
+.pixel {
+  background-color: white;
+  border: 1px solid black;
+  display: inline-block;
+  height: 40px;
+  margin-right: 4px;
+  width: 40px;
+}
+
+.clear-button {
+  margin-bottom: 4px;
+  width: 100%;
+}
