@@ -46,4 +46,4 @@ Neste projeto, foi implementado um adivinhador de cor RGB. Ou seja, dada uma str
 
 ### Sobre repositório utilizado para realizar o projeto
 
-[Repositório do projeto Trybe](https://github.com/tryber/sd-06-project-jest)
+[Repositório do projeto Trybe](https://github.com/tryber/sd-06-project-color-guess)
