@@ -32,8 +32,6 @@ Data de Início | Data de Conclusão | Nome do Projeto
 08/02/2021 | 10/02/2021 | Crush Manager
 26/02/2021 | 01/03/2021 | Store Manager
 01/03/2021 | 03/03/2021 | CookMaster
-08/03/2021 | 08/03/2021 | Stranger Things BackEnd
-08/03/2021 | 09/03/2021 | Stranger Things FrontEnd
 11/03/2021 | 01/04/2021 | Trybeer
 06/04/2021 | 08/04/2021 | Blogs API
 16/04/2021 | 23/04/2021 | WebChat
