@@ -1,0 +1,1 @@
+SELECT notes FROM northwind.purchase_orders WHERE REPLACE(notes, 'Purchase generated based on Order #', '') BETWEEN 30 and 39;
