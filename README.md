@@ -26,6 +26,7 @@ Data de Início | Data de Conclusão | Nome do Projeto
 09/12/2020 | 09/12/2020 | MySQL All For One
 05/01/2021 | 06/01/2021 | MySQL Vocabulary Booster
 13/01/2021 | 13/01/2021 | MySQL One For All
+18/01/2021 | 18/01/2021 | MongoDB Dataflights
 26/01/2021 | 26/01/2021 | MongoDB Commerce
 28/01/2021 | 28/01/2021 | MongoDB Aggregations
 08/02/2021 | 10/02/2021 | Crush Manager
