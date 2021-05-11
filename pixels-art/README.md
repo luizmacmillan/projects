@@ -2,6 +2,8 @@
 
 Neste projeto, foi implementado um editor de arte com pixels, ou seja, dada uma paleta de cores e um quadro composto por pixels, é permitido a que quem usa pintar o que quiser no quadro!
 
+---
+
 ## Requisitos do projeto
 
 ### 1 - A página deve possuir o título "Paleta de Cores".
