@@ -1,0 +1,78 @@
+.login-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.login-form {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.email-input, .password-input {
+  background-color: #FFF9F9;
+  border-radius: 10px;
+  height: 52px;
+  margin-bottom: 20px;
+  text-align: center;
+  width:300px;
+}
+
+.login-submit-btn {
+  background-color: #A98036;
+  border-radius: 10px;
+  color: white;
+  font-family: cursive;
+  font-size: 30px;
+  font-weight: bold;
+  height: 52px;
+  margin-bottom: 200px;
+  text-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
+  width: 230px;
+}
+
+.login-image-container {
+  border-bottom: solid 5px #FFEBC7;
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+
+.login-image {
+  width: 350px;
+  margin-bottom: 30px;
+}
+
+.pulse {
+  animation: pulse 1.7s infinite;
+  animation-direction: alternate;
+  animation-name: pulse;
+  display: table;
+  margin: 0 auto;
+  -webkit-animation-name: pulse;
+}
+
+@-webkit-keyframes pulse {
+  0% {
+    filter: brightness(100%);
+    transform: scale(1);
+  }
+  100% {
+    filter: brightness(130%);
+    transform: scale(1.05);
+  }
+}
+
+@keyframes pulse {
+  0% {
+    filter: brightness(100%);
+    transform: scale(1);
+  }
+  100% {
+    filter: brightness(130%);
+    transform: scale(1.05);
+  }
+}
+
+.login-submit-btn:disabled {
+  opacity: 20%;
+}

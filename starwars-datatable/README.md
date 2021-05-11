@@ -97,6 +97,8 @@ O `button` com o ícone de `x` deve existir em cada filtro de valores numéricos
 
 A coluna que este filtro selecionava deve passar a ficar disponível nos dropdowns dos demais filtros já presentes na tela. Você deve usar **Context API e Hooks** para fazer o gerenciamento do estado da aplicação. Com um `button` em seu interior com o texto `X`.
 
+---
+
 ### Sobre repositório utilizado para realizar o projeto
 
 [Repositório do projeto Trybe](https://github.com/tryber/sd-06-project-starwars-datatable-hooks)
