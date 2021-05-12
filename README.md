@@ -33,7 +33,7 @@ Data de Início | Data de Conclusão | Nome do Projeto
 26/02/2021 | 01/03/2021 | [Store Manager](https://github.com/luizmacmillan/projects/tree/master/store-manager)
 01/03/2021 | 03/03/2021 | [CookMaster](https://github.com/luizmacmillan/projects/tree/master/cookmaster)
 11/03/2021 | 01/04/2021 | [Trybeer](https://github.com/luizmacmillan/projects/tree/master/trybeer)
-06/04/2021 | 08/04/2021 | Blogs API
+06/04/2021 | 08/04/2021 | [Blogs API](https://github.com/luizmacmillan/projects/tree/master/blogs-api)
 16/04/2021 | 23/04/2021 | [WebChat](https://github.com/luizmacmillan/projects/tree/master/webchat)
 19/04/2021 | 03/05/2021 | [Trybeer V2](https://github.com/luizmacmillan/projects/tree/master/trybeer-v2)
 
