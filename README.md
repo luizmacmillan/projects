@@ -36,5 +36,7 @@ Data de Início | Data de Conclusão | Nome do Projeto
 06/04/2021 | 08/04/2021 | [Blogs API](https://github.com/luizmacmillan/projects/tree/master/blogs-api)
 16/04/2021 | 23/04/2021 | [WebChat](https://github.com/luizmacmillan/projects/tree/master/webchat)
 19/04/2021 | 03/05/2021 | [Trybeer V2](https://github.com/luizmacmillan/projects/tree/master/trybeer-v2)
+13/05/2021 | 15/05/2021 | [Tech News](https://github.com/luizmacmillan/trybe-projects/tree/master/tech-news)
+
 
 _Obs: os projetos têm, em média, 7 dias para serem concluídos._
